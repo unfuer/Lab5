@@ -26,7 +26,7 @@ namespace calculator_lab5
                 if (n == 1) { c = a + b; i = " + "; }
                 if (n == 2) { c = a - b; i = " - "; }
                 if (n == 3) { c = a * b; i = " * "; }
-                if (n == 4) { c = a / b; i = " / "; }
+                if (n == 4) if (b == 0) Console.WriteLine("Ошибка"); else { c = a / b; i = " / "; }
                 Console.WriteLine("Результат:\n" + a + i + b + " = " + c + "\n\nПовторить (Y/N)?");
                 i = Console.ReadLine();
                 Console.Clear();
