@@ -1,0 +1,16 @@
+C:\Users\unfue\source\repos\calculator_lab5\calculator_lab5\bin\Debug\calculator_lab5.exe.config
+C:\Users\unfue\source\repos\calculator_lab5\calculator_lab5\bin\Debug\calculator_lab5.exe
+C:\Users\unfue\source\repos\calculator_lab5\calculator_lab5\bin\Debug\calculator_lab5.pdb
+C:\Users\unfue\source\repos\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.csproj.AssemblyReference.cache
+C:\Users\unfue\source\repos\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\unfue\source\repos\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.csproj.CoreCompileInputs.cache
+C:\Users\unfue\source\repos\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.exe
+C:\Users\unfue\source\repos\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.pdb
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\git\lab5\calculator_lab5\calculator_lab5\bin\Debug\calculator_lab5.exe.config
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\git\lab5\calculator_lab5\calculator_lab5\bin\Debug\calculator_lab5.exe
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\git\lab5\calculator_lab5\calculator_lab5\bin\Debug\calculator_lab5.pdb
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\git\lab5\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.csproj.AssemblyReference.cache
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\git\lab5\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\git\lab5\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.csproj.CoreCompileInputs.cache
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\git\lab5\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.exe
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\git\lab5\calculator_lab5\calculator_lab5\obj\Debug\calculator_lab5.pdb
